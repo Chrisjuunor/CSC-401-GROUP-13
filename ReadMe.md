@@ -7,9 +7,8 @@
 ## Definitions
 
 ### Overloading
-```
-    Function overloading is the ability to have multiple functions with the same name but with different signatures/implementations.When an overloaded function fn is called, the runtime first evaluates the arguments/parameters passed to the function call and judging by this invokes the corresponding implementation.
-```
+Function overloading is the ability to have multiple functions with the same name but with different signatures/implementations.When an overloaded function fn is called, the runtime first evaluates the arguments/parameters passed to the function call and judging by this invokes the corresponding implementation.
+
 
 ### Overriding
 Method overriding is an ability of any object-oriented programming language that allows 
