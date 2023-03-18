@@ -11,7 +11,7 @@ public:
         cout << "\nThis is Display() method"
                 " of BaseClass";
     }
-    void Show()
+    void Show() 
     {
         cout << "\nThis is Show() method "
                "of BaseClass";
@@ -25,8 +25,8 @@ public:
     // base class display method
     void Display()
     {
-        cout << "\nThis is Display() method"
-               " of DerivedClass";
+        cout << "\nThis is Display() method" 
+               " of DerivedClass";              
     }
 };
  
@@ -35,6 +35,6 @@ int main()
 {
     DerivedClass dr;
     BaseClass &bs = dr;
-    bs.Display();
-    dr.Show();
+    bs.Display();       // This is Display() method of DerivedClass
+    dr.Show();          // This is Show() method of BaseClass
 }

@@ -19,3 +19,16 @@ in its super-class, then the method in the subclass is said to override the meth
 the super-class.
 
 ![eg](https://media.geeksforgeeks.org/wp-content/uploads/20200114114917/overriding-in-python.png)
+
+## References
+
+1.  C - [click here](https://www.geeksforgeeks.org/does-c-support-function-overloading/)
+2.  C# - [click here](https://www.c-sharpcorner.com/UploadFile/8a67c0/method-overloading-and-method-overriding-in-C-Sharp/)
+3.  C++ - [click here](https://www.geeksforgeeks.org/function-overloading-vs-function-overriding-in-cpp/)
+4.  Go - [click here](https://www.tutorialspoint.com/golang-program-to-show-overriding-of-methods-in-classes)
+5.  JAVA - [click here](https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/)
+6.  JavaScript - [click here](https://www.geeksforgeeks.org/function-overloading-in-javascript/amp/)
+7.  Lua - [click here](https://scriptinghelpers.org/questions/24647/does-lua-support-overloading-functions-two-identically-named-functions-with-different-parameters)
+8.  Python - [click here](https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-python/)
+9.  R - [click here]()
+10. Ruby - [click here](https://findnerd.com/list/view/Method-Overloading-and-Overriding-In-Ruby/22266/)

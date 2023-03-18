@@ -27,18 +27,18 @@ int main()
 // Method 1
 void test(int var)
 {
-    cout << "Integer number: " << var << endl;
+    cout << "Integer number: " << var << endl;  // Integer number: 5 
 }
  
 // Method 2
 void test(float var)
 {
-    cout << "Float number: "<< var << endl;
+    cout << "Float number: "<< var << endl;     // Float number: 5.5
 }
  
 // Method 3
 void test(int var1, float var2)
 {
     cout << "Integer number: " << var1;
-    cout << " and float number:" << var2;
+    cout << " and float number:" << var2;       // Integer number: 5 and float number:5.5
 }
